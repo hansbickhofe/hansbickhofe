@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning to update my profile Page!
+- 🔭 I’m currently working on ansible, node, react-native, electron, pouchdb, couchdb, LoRAWAN Devices, ESP32/ESP8266, Arduino, Unity Networking (Mirror) 
 
 <!--
 **hansbickhofe/hansbickhofe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
