@@ -1,7 +1,13 @@
 ### Hi there 👋
 - 🌱 I’m currently learning to update my profile Page!
 - 🌱 I’m currently learning django
-- 🔭 I’m currently working on ansible, LoRAWAN Devices, ESP32/ESP8266, Arduino
+- 🔭 I’m currently working on 
+    - ansible
+    - LoRAWAN Devices 
+    - ESP32/ESP8266
+    - Arduino
+    - tasmota
+    - esphome
 
 <h2>Contact</h2>
 <a href="https://www.linkedin.com/in/hansbickhofe"><img src="https://img.shields.io/badge/-Hans%20Bickhofe-blue"
