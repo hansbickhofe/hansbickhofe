@@ -3,6 +3,10 @@
 - 🔭 I’m currently working on 
     - ansible
     - ESP32/ESP8266
+    - Jetson Nano Orin Super
+    - llama.cpp
+    - n8n
+    - openclaw
 
 <h2>Contact</h2>
 <a href="https://www.linkedin.com/in/hansbickhofe"><img src="https://img.shields.io/badge/-Hans%20Bickhofe-blue"
